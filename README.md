@@ -271,4 +271,4 @@ LIMIT 25;
 
 This project helped me understand how **SQL can be used to turn raw job posting data into meaningful insights**. It also gave me a better perspective on the skills and salary patterns present in the Data Science job market.
 
-Most importantly, this project was an opportunity to apply SQL to a **real-world dataset** and strengthen my analytical thinking while building a practical data portfolio project. 
+Most importantly, this project was an opportunity to apply SQL to a **real-world dataset** and strengthen my analytical thinking while building a practical data portfolio project. 🚀
