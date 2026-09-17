@@ -8,12 +8,20 @@ The project demonstrates how SQL can be used to explore and analyze real-world j
 
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
-# Background
-This project is a SQL-based data analysis project focused on exploring the data science job market. 📊
+# Background 🎯
 
-The analysis uses job posting data to identify trends in salaries, in-demand skills, and remote work opportunities, providing insights into the current demand for data-related roles. 💼
+I created this project to better understand the **data science job market** and explore which skills and qualifications are most valuable for data-related careers. 💼
 
-The project demonstrates how SQL can be used to explore and analyze real-world job market data and turn it into meaningful insights. 🧠
+The analysis focuses on job postings and explores questions such as:
+
+* 💰 Which data roles offer the highest salaries?
+* 🛠️ Which skills are most in demand?
+* 📈 Which skills are associated with higher-paying jobs?
+* 🌍 How common are remote opportunities?
+* 🎓 What can the job market tell us about the skills needed to build a career in data?
+
+By answering these questions with SQL, I wanted to gain practical experience working with a large dataset while developing a better understanding of the current data job market. 🔎
+
 # Tools I Used 🛠️
 
 * 🐘 **PostgreSQL** — Used to query, filter, join, and analyze the job posting data.
